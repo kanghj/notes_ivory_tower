@@ -1,0 +1,8 @@
+* Specification mining is related to the art movement of minimalism.
+** Minimalism is about work that exposes the essence of a subject by eliminating non-essential aspects of it.
+** Specification mining extracts the essential parts of a piece of software
+*** It is subjective; because what is essential depends on the properties under study.
+*** Mining languages (in the chomsky hierarchy) often reduces software down to temporal properties
+*** Older Software Engineering studies were very interested in null checks and predicates used in a program, reducing entire programs down to these properties
+** "Less is more"
+** Specification mining: hard to say it has any practical use (as of 2020) beyond the entertainment of a privileged audience
